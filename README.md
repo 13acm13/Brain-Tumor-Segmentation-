@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation Using 3D U-Net and MRI Data
+# Brain Tumor Segmentation Using 3D U-Net using BraTS 2023 Challenge Dataset
 
 This project focuses on brain tumor segmentation from MRI images using a 3D U-Net architecture. The model was trained on the BraTS 2023 dataset to accurately delineate tumor regions, providing essential diagnostic support for identifying aggressive brain tumors like glioblastomas. Our approach incorporates specialized loss functions to enhance boundary precision and class balancing, crucial for complex tumor structures.
 
